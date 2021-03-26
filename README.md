@@ -20,7 +20,7 @@ This is the repository of the official implementation of our paper *A Study on t
  3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/danielemalitesta/ExplainableFeatureExtractor).
 
 ### The Authors
-* Yashar Deldjoo
-* Tommaso Di Noia
-* Daniele Malitesta
-* Felice Antonio Merra
+* Yashar Deldjoo (yashar.deldjoo@poliba.it)
+* Tommaso Di Noia (tommaso.dinoia@poliba.it)
+* Daniele Malitesta (daniele.malitesta@poliba.it)
+* Felice Antonio Merra (felice.merra@poliba.it)

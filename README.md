@@ -18,3 +18,9 @@ This is the repository of the official implementation of our paper *A Study on t
  1. Extract visual features from item images. You can refer to this GitHub [repository](https://github.com/danielemalitesta/ExplainableFeatureExtractor).
  2. Train and evaluate the visual-based recommenders through [this extension](https://github.com/danielemalitesta/elliot_expl) of [Elliot](https://github.com/sisinflab/elliot), a Python framework for reproducible recommender systems.
  3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/danielemalitesta/ExplainableFeatureExtractor).
+
+### The Authors
+* Yashar Deldjoo
+* Tommaso Di Noia
+* Daniele Malitesta
+* Felice Antonio Merra

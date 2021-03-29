@@ -16,6 +16,8 @@ This is the official implementation repository of our paper ***A Study on the Re
  **Table of Contents:**
 - [Requirements](#requirements)
 - [Run and evaluate recommendations](#run-and-evaluate-recommendations)
+- [Datasets](#datasets)
+- [Parameters for Image Feature Extractors](#parameters-for-image-feature-extractors)
 - [The Authors](#the-authors)
 
 ## Requirements
@@ -54,6 +56,10 @@ To reproduce the results discussed in the paper, please follow these three steps
 1. Extract visual features from item images. You can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor#extract-features).
 2. Train and evaluate the visual-based recommenders through [this fork](https://github.com/danielemalitesta/elliot_expl) of [Elliot](https://github.com/sisinflab/elliot) (**TO BE MERGED INTO THE MASTER BRANCH SOON**).
 3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor#evaluate-visual-recommendations).
+
+## Datasets
+
+## Parameters for Image Feature Extractors
 
 
 ## The Authors

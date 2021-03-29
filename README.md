@@ -1,6 +1,6 @@
 # A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems
 
-This is the repository of the official implementation of our paper ***A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems*** (under review).
+This is the official implementation repository of our paper ***A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems*** (under review).
 
 <p float="left">
   <figure>
@@ -13,11 +13,47 @@ This is the repository of the official implementation of our paper ***A Study on
   </figure>
  </p>
  
+ **Table of Contents:**
+- [Requirements](#requirements)
+- [Run and evaluate recommendations](#run-and-evaluate-recommendations)
+- [Evaluate visual recommendations](#evaluate-visual-recommendations)
+
+## Requirements
+
+To begin with, please make sure your system has these installed:
+
+* Python 3.6.8
+* CUDA 10.1
+* cuDNN 7.6.4
+
+Then, install all required Python dependencies with the command:
+```
+pip install -r requirements.txt
+```
+Finally, you are supposed to structure the dataset folders in the following way:
+```
+./data
+  amazon_baby_vgg19/
+    original/
+       images/
+        0.jpg
+        1.jpg
+        ...
+  amazon_boys_girls_alexnet/
+    original/
+      images/
+        0.jpg
+        1.jpg
+        ...
+```
+**N.B.** The dataset folder structure requires the notation ```<dataset_name>_<cnn_name>```, even though the different dataset folders contain the exact same files. This is due to the fact that, when training and evaluating state-of-the-art visual-based recommender systems on these datasets through [Elliot](https://github.com/sisinflab/elliot), they need to be recognized as different datasets.
+ 
  To reproduce the results discussed in the paper, please follow these three steps:
  
  1. Extract visual features from item images. You can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
  2. Train and evaluate the visual-based recommenders through [this fork](https://github.com/danielemalitesta/elliot_expl) of [Elliot](https://github.com/sisinflab/elliot) (**TO BE MERGED INTO THE MASTER BRANCH SOON**).
  3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
+
 
 ### The Authors
 * Yashar Deldjoo (yashar.deldjoo@poliba.it)

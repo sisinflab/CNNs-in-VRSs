@@ -69,7 +69,7 @@ To reproduce the results discussed in the paper, please follow these three steps
 
 ## Parameters for Image Feature Extractors
 
-|       Convolutional Neural Network      |    Output Layer   | Output Shape  | 
+|       CNN      |    Output Layer   | Output Shape  | 
 | ------------------ | ------------------ | ------------------ | 
 |     [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)     | | |
 |    [VGG19](https://arxiv.org/pdf/1409.1556.pdf)    | a | a |

@@ -16,7 +16,7 @@ This is the official implementation repository of our paper ***A Study on the Re
  **Table of Contents:**
 - [Requirements](#requirements)
 - [Run and evaluate recommendations](#run-and-evaluate-recommendations)
-- [Evaluate visual recommendations](#evaluate-visual-recommendations)
+- [The Authors](#the-authors)
 
 ## Requirements
 
@@ -47,12 +47,13 @@ Finally, you are supposed to structure the dataset folders in the following way:
         ...
 ```
 **N.B.** The dataset folder structure requires the notation ```<dataset_name>_<cnn_name>```, even though the different dataset folders contain the exact same files. This is due to the fact that, when training and evaluating state-of-the-art visual-based recommender systems on these datasets through [Elliot](https://github.com/sisinflab/elliot), they need to be recognized as different datasets.
- 
- To reproduce the results discussed in the paper, please follow these three steps:
- 
- 1. Extract visual features from item images. You can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
- 2. Train and evaluate the visual-based recommenders through [this fork](https://github.com/danielemalitesta/elliot_expl) of [Elliot](https://github.com/sisinflab/elliot) (**TO BE MERGED INTO THE MASTER BRANCH SOON**).
- 3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
+
+### Run and evaluate recommendations
+To reproduce the results discussed in the paper, please follow these three steps:
+
+1. Extract visual features from item images. You can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
+2. Train and evaluate the visual-based recommenders through [this fork](https://github.com/danielemalitesta/elliot_expl) of [Elliot](https://github.com/sisinflab/elliot) (**TO BE MERGED INTO THE MASTER BRANCH SOON**).
+3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
 
 
 ### The Authors

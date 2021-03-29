@@ -62,8 +62,10 @@ To reproduce the results discussed in the paper, please follow these three steps
 
 |       Dataset      |    ***k-cores***   | # Users   | # Products   |  # Feedback   |
 | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
-|     Amazon Baby     |      5 | 606 | 1,761 | 3,882  |
-|    Amazon Boys & Girls    |   5 | 600 | 2,760 | 3,910  |
+|     Amazon Baby*     |      5 | 606 | 1,761 | 3,882  |
+|    Amazon Boys & Girls*    |   5 | 600 | 2,760 | 3,910  |
+
+* https://jmcauley.ucsd.edu/data/amazon/
 
 ## Parameters for Image Feature Extractors
 

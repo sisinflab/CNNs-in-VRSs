@@ -19,6 +19,7 @@ This is the official implementation repository of our paper ***A Study on the Re
 - [Datasets](#datasets)
 - [Parameters for Image Feature Extractors](#parameters-for-image-feature-extractors)
 - [Visual Recommenders](#visual-recommenders)
+- [Configuration Files](#configuration-files)
 - [The Authors](#the-authors)
 
 ## Requirements

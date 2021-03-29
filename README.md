@@ -15,9 +15,9 @@ This is the repository of the official implementation of our paper *A Study on t
  
  To reproduce the results discussed in the paper, please follow these three steps:
  
- 1. Extract visual features from item images. You can refer to this GitHub [repository](https://github.com/danielemalitesta/ExplainableFeatureExtractor).
+ 1. Extract visual features from item images. You can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
  2. Train and evaluate the visual-based recommenders through [this extension](https://github.com/danielemalitesta/elliot_expl) of [Elliot](https://github.com/sisinflab/elliot).
- 3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/danielemalitesta/ExplainableFeatureExtractor).
+ 3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
 
 ### The Authors
 * Yashar Deldjoo (yashar.deldjoo@poliba.it)

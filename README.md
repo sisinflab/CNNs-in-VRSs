@@ -69,11 +69,11 @@ To reproduce the results discussed in the paper, please follow these three steps
 
 ## Parameters for Image Feature Extractors
 
-|       CNN      |    Output Layer   | Output Shape  | 
-| ------------------ | ------------------ | ------------------ | 
-|     [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)     | | |
-|    [VGG19](https://arxiv.org/pdf/1409.1556.pdf)    | a | a |
-|    [ResNet50](https://arxiv.org/pdf/1512.03385.pdf) | a | a |
+|       CNN      |    Output Layer   | Output Layer ([script](https://github.com/sisinflab/Image-Feature-Extractor/blob/main/src/classify_extract.py)) | Output Shape  | 
+| ------------------ | ------------------ | ------------------ | ------------------ | 
+|     [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)     | | 5 | 1x4096 |
+|    [VGG19](https://arxiv.org/pdf/1409.1556.pdf)    |  | fc2 | 1x512 |
+|    [ResNet50](https://arxiv.org/pdf/1512.03385.pdf) |  | avg_pool | 1x2048 |
 
 
 ## Visual Recommenders

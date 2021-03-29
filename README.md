@@ -95,6 +95,15 @@ To reproduce the results discussed in the paper, please follow these three steps
 |     Attentive Collaborative Filtering (ACF) | [Chen et al.](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-AttentiveCF.pdf) | 
 |     Visual Neural Personalized Ranking (VNPR) | [Niu et al.](https://people.engr.tamu.edu/caverlee/pubs/niu18wsdm.pdf) |
 
+## Configuration Files
+- Amazon Baby
+  - [AlexNet](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_baby_alexnet.yml)
+  - [VGG19](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_baby_vgg19.yml)
+  - [ResNet50](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_baby_resnet50.yml)
+- Amazon Boys & Girls
+  - [AlexNet](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_boys_girls_alexnet.yml)
+  - [VGG19](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_boys_girls_vgg19.yml)
+  - [ResNet50](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_boys_girls_resnet50.yml) 
 
 ## The Authors
 * Yashar Deldjoo (yashar.deldjoo@poliba.it)

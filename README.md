@@ -18,6 +18,7 @@ This is the official implementation repository of our paper ***A Study on the Re
 - [Run and evaluate recommendations](#run-and-evaluate-recommendations)
 - [Datasets](#datasets)
 - [Parameters for Image Feature Extractors](#parameters-for-image-feature-extractors)
+- [Visual Recommenders](#visual-recommenders)
 - [The Authors](#the-authors)
 
 ## Requirements
@@ -60,6 +61,8 @@ To reproduce the results discussed in the paper, please follow these three steps
 ## Datasets
 
 ## Parameters for Image Feature Extractors
+
+## Visual Recommenders
 
 
 ## The Authors

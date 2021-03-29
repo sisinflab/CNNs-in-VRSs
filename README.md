@@ -60,7 +60,7 @@ To reproduce the results discussed in the paper, please follow these three steps
 
 ## Datasets
 
-|       Dataset      |    ***k-cores***   | # Users   | # Products   |  # Feedback   |
+|       Dataset      |    ***k-cores***   | # Users   | # Products   |  # Feedbacks   |
 | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
 |     Amazon Baby*     |      5 | 606 | 1,761 | 3,882  |
 |    Amazon Boys & Girls*    |   5 | 600 | 2,760 | 3,910  |
@@ -68,6 +68,13 @@ To reproduce the results discussed in the paper, please follow these three steps
 \* https://jmcauley.ucsd.edu/data/amazon/
 
 ## Parameters for Image Feature Extractors
+
+|       Convolutional Neural Network      |    Output Layer   | Reshape  | 
+| ------------------ | ------------------ | ------------------ | ------------------ |
+|     AlexNet     | | | |
+|    VGG19    | | | |
+|    ResNet50 | | | |
+
 
 ## Visual Recommenders
 

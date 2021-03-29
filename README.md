@@ -48,7 +48,7 @@ Finally, you are supposed to structure the dataset folders in the following way:
 ```
 **N.B.** The dataset folder structure requires the notation ```<dataset_name>_<cnn_name>```, even though the different dataset folders contain the exact same files. This is due to the fact that, when training and evaluating state-of-the-art visual-based recommender systems on these datasets through [Elliot](https://github.com/sisinflab/elliot), they need to be recognized as different datasets.
 
-### Run and evaluate recommendations
+## Run and evaluate recommendations
 To reproduce the results discussed in the paper, please follow these three steps:
 
 1. Extract visual features from item images. You can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
@@ -56,7 +56,7 @@ To reproduce the results discussed in the paper, please follow these three steps
 3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor).
 
 
-### The Authors
+## The Authors
 * Yashar Deldjoo (yashar.deldjoo@poliba.it)
 * Tommaso Di Noia (tommaso.dinoia@poliba.it)
 * Daniele Malitesta (daniele.malitesta@poliba.it)

@@ -1,6 +1,6 @@
 # A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems
 
-This is the official implementation repository of our paper ***A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems*** (under review).
+This is the official implementation repository of our paper ***A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems*** accepted at CVFAD@CVPR 2021.
 
 <p float="left">
   <figure>

@@ -2,7 +2,8 @@
 
 This is the official implementation of our paper [**A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems**](https://www.researchgate.net/publication/350873965_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually-Aware_Recommender_Systems) accepted at CVFAD@CVPR 2021.
 
-**Authors** Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta*, Felice Antonio Merra.
+**Authors:** Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta*, Felice Antonio Merra.
+* *corresponding author*
 
 <p float="left">
   <figure>

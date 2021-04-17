@@ -114,3 +114,5 @@ To reproduce the results discussed in the paper, please follow these three steps
 * Tommaso Di Noia (tommaso.dinoia@poliba.it)
 * Daniele Malitesta* (daniele.malitesta@poliba.it)
 * Felice Antonio Merra (felice.merra@poliba.it)
+
+\**corresponding author*

@@ -1,6 +1,6 @@
 # A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems
 
-This is the official implementation of our paper [**A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems**](https://www.researchgate.net/publication/350873965_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually-Aware_Recommender_Systems) accepted at the 4th CVPR Workshop on Computer Vision for Fashion, Art, and Design (CVFAD@CVPR2021).
+This is the official implementation of our paper [**A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems**](https://www.researchgate.net/publication/350873965_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually-Aware_Recommender_Systems) accepted at the 4th CVPR Workshop on Computer Vision for Fashion, Art, and Design ([**CVFAD@CVPR2021**](https://sites.google.com/zalando.de/cvfad2021/home)).
 
 **Authors:** Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta*, Felice Antonio Merra.
 <br>\**corresponding author*

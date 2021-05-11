@@ -59,7 +59,7 @@ Finally, you are supposed to structure the dataset folders in the following way:
 To reproduce the results discussed in the paper, please follow these three steps:
 
 1. Extract visual features from item images. You can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor#extract-features).
-2. Train and evaluate the visual-based recommenders through this fork of [Elliot](https://github.com/sisinflab/elliot) (**LINK WILL BE AVAILABLE SOON**).
+2. Train and evaluate the visual-based recommenders through this [version](https://github.com/danielemalitesta/Elliot-Reproducible-VRSs) of [Elliot](https://github.com/sisinflab/elliot) (**TO BE MERGED INTO THE MAIN BRANCH SOON**).
 3. Evaluate the *visual diversity* (**VisDiv**). Again, you can refer to this GitHub [repository](https://github.com/sisinflab/Image-Feature-Extractor#evaluate-visual-recommendations).
 
 ## Datasets
@@ -101,13 +101,13 @@ To reproduce the results discussed in the paper, please follow these three steps
 
 ## Configuration Files
 - Amazon Baby
-  - [AlexNet](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_baby_alexnet.yml)
-  - [VGG19](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_baby_vgg19.yml)
-  - [ResNet50](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_baby_resnet50.yml)
+  - [AlexNet](https://github.com/danielemalitesta/Elliot-Reproducible-VRSs/blob/master/config_files/baselines_amazon_baby_alexnet.yml)
+  - [VGG19](https://github.com/danielemalitesta/Elliot-Reproducible-VRSs/blob/master/config_files/baselines_amazon_baby_vgg19.yml)
+  - [ResNet50](https://github.com/danielemalitesta/Elliot-Reproducible-VRSs/blob/master/config_files/baselines_amazon_baby_resnet50.yml)
 - Amazon Boys & Girls
-  - [AlexNet](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_boys_girls_alexnet.yml)
-  - [VGG19](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_boys_girls_vgg19.yml)
-  - [ResNet50](https://github.com/danielemalitesta/elliot_expl/blob/master/config_files/baselines_amazon_boys_girls_resnet50.yml) 
+  - [AlexNet](https://github.com/danielemalitesta/Elliot-Reproducible-VRSs/blob/master/config_files/baselines_amazon_boys_girls_alexnet.yml)
+  - [VGG19](https://github.com/danielemalitesta/Elliot-Reproducible-VRSs/blob/master/config_files/baselines_amazon_boys_girls_vgg19.yml)
+  - [ResNet50](https://github.com/danielemalitesta/Elliot-Reproducible-VRSs/blob/master/config_files/baselines_amazon_boys_girls_resnet50.yml) 
 
 ## The Authors
 * Yashar Deldjoo (yashar.deldjoo@poliba.it)

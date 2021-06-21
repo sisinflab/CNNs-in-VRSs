@@ -1,6 +1,6 @@
 # A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems
 
-This is the official implementation of our paper [**A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems**](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/html/Deldjoo_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_CVPRW_2021_paper.html) published in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops.
+This is the official implementation of our paper [**A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems**](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/html/Deldjoo_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_CVPRW_2021_paper.html) published in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021.
 
 **Authors:** Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta*, Felice Antonio Merra.
 <br>\**corresponding author*
